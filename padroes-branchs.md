@@ -20,3 +20,7 @@ chore/update-dependencies
 release/v1.0.0
 epic/user-authentication
 improvement/improve-login-performance
+
+## Referências
+
+- [Nomenclatura de Branches no Gitflow - jrschmidtt](https://dev.to/jrschmidtt/nomenclatura-de-branches-no-gitflow-para-organizar-seu-desenvolvimento-58nl)
