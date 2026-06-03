@@ -19,3 +19,7 @@ env - Alterações em arquivos de configuração de ambiente, como parâmetros d
 raw - Indicam mudanças relacionadas a arquivos de configurações, dados, features, parâmetros.
 cleanup - Remoção de código comentado ou desnecessário, visando melhorar a legibilidade e manutenção do código.
 remove - Exclusão de arquivos, diretórios ou funcionalidades obsoletas, reduzindo a complexidade do projeto.
+
+## Referências
+
+- [Padrões de Commits - iuricode](https://github.com/iuricode/padroes-de-commits/blob/main/README.md)
