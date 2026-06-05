@@ -26,10 +26,8 @@ Para que a atividade seja considerada concluída, o projeto segue os seguintes c
 ---
 
 ## 📝 Questões da Atividade
-*(Espaço destinado ao Aluno 02 para preenchimento de respostas e inclusão de imagens locais)*
 
-### Questão 1: O que é o Git e qual a importância do controle de versão no desenvolvimento de software?
-> **Resposta:** [Aluno 02, insira sua resposta aqui]
+> **Resposta:** [Questões e respostas](https://github.com/Patomer27/atividade_logica_de_progamacao/blob/main/atividade/atividade.md)
 
 
 ---
