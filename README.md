@@ -38,10 +38,10 @@ As pesquisas detalhadas foram realizadas em branches específicas e o conteúdo 
 
 1.  **Padrões de Commits (ex: Conventional Commits):**
     * 📄 Acesse o arquivo completo aqui:
-    > [padroes-commits.md](https://github.com/Patomer27/atividade_logica_de_progamacao/blob/main/pesquisas/padroes_commits.md)
+    > [padroes-commits.md](https://github.com/Patomer27/atividade_logica_de_progamacao/blob/main/pesquisas/padroes-commits.md)
 2.  **Padrões de Nomenclatura de Branches (ex: Git Flow / GitHub Flow):**
     * 📄 Acesse o arquivo completo aqui: 
 
-    >[padroes-branchs.md](https://github.com/Patomer27/atividade_logica_de_progamacao/blob/main/pesquisas/padroes_branchs.md)
+    >[padroes-branchs.md](https://github.com/Patomer27/atividade_logica_de_progamacao/blob/main/pesquisas/padroes-branchs.md)
 
 ---
